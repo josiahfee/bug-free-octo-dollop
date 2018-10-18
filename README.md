@@ -1,9 +1,4 @@
-# xteam-exercise-2: https://github.com/<UserName>/<GitHubRepositoryName>
-
-1. Edit the title of this document
-   * Replace <UserName> with the user name of the team member who created shared repository
-   * Replace <GitHubRepositoryName> with the name of your team's GitHub repository for this exercise.
-   * Remove the angle brackets <> if they are still there in the title
+# xteam-exercise-2: https://github.com/josiahfee/bug-free-octo-dollop
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
