@@ -27,6 +27,5 @@ each member can imput their thoughts on a solution.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-
-
+Bring all concerns you may have to the table so that we may work them out as a team rather than keeping those conerns to yourself and creating a bad experience.
 
