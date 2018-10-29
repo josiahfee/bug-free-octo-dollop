@@ -2,13 +2,13 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1: amkelly3      name 1: Aaron Kelly
+       * GitHub username 1: amkelly3       name 1: Aaron Kelly
        * GitHub username 2: josiahfee      name 2: Josiah Fee
-       * GitHub username 3: cjwilson2020      name 3: Christopher Wilson
-       * GitHub username 4: cchan01      name 4: Chloe Chan
-   * When did you complete this exercise? October 28th, 2018
+       * GitHub username 3: cjwilson2020   name 3: Christopher Wilson
+       * GitHub username 4: cchan01        name 4: Chloe Chan
+   * When did you complete this exercise? October 28th, 2018 
    * How long did it take your team to complete this exercise? 
-   3 hours
+    approximately 3 hours
 
 ## Table of Contents
 
