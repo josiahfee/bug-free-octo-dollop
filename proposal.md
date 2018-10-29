@@ -43,8 +43,7 @@ Describe at a high level a program that could solve that problem.
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 We would need to have the songs file themselves as input, or metadata input. One type of input would be user based (skipping a song or searching a song and the other would be spotify's recommendation.
 
-4. User Interface: We will create this UI where the user will hit 'Start' and it will run in the background while
-the user uses Spotify. The program will run in the background and collecty datat from the music that the user listens
+4. User Interface: We will create this UI where the user will select a feature to look for, then hit 'Start' and it will run in the background while the user uses Spotify. The program will run in the background and collecty datat from the music that the user listens
 to. It will collect information on whether a user likes, skips, searches, or adds a song to a playlist and
 create a record of this activty. Once finished, the user will hit 'Stop'. The program will look at Spotify's recommended 
 playlist and identify the features Spotify used to create it based on the liked and disliked songs. We we will create 
