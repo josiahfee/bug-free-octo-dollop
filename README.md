@@ -5,7 +5,7 @@
        * GitHub username 1: amkelly3      name 1: Aaron Kelly
        * GitHub username 2: josiahfee      name 2: Josiah Fee
        * GitHub username 3: cjwilson2020      name 3: Christopher Wilson
-       * GitHub username 4:       name 4: Chloe Chan
+       * GitHub username 4: cchan01      name 4: Chloe Chan
    * When did you complete this exercise? October 18th, 2018
    * How long did it take your team to complete this exercise? 
 
