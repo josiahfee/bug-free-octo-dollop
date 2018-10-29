@@ -43,11 +43,11 @@ Our input would be Spotify's generated playlist. We can get metadata from this p
 
 Example: 
 
- '''User: "Songs less than 120", 2
+ >User: "Songs less than 120", 2
 
- Spotify: "Hurt, Johnny Cash", "Billy Jean, Michael Jackson" 
+ >Spotify: "Hurt, Johnny Cash", "Billy Jean, Michael Jackson" 
 
- Spotify: "Miracles, Insane Clown Posse", "Oh Comely, The Neutral Milk Hotel" 
+ >Spotify: "Miracles, Insane Clown Posse", "Oh Comely, The Neutral Milk Hotel" 
 
 
 4. User Interface: We will create this UI where the user will select a feature to look for, then hit 'Start' and it will run in the background while the user uses Spotify. The program will run in the background and collecty datat from the music that the user listens
@@ -58,15 +58,15 @@ data files that contain this data.
 
 5. Types List: 
 
- Main.java - The main program runs in this class.
+ >Main.java - The main program runs in this class.
 
- Playlist.java - A playlist that contains song name and feature value
+ >Playlist.java - A playlist that contains song name and feature value
 
- PlaylistADT.java - ADT for playlist; contains signatures for size, name, delete, insert, lookup/get, sift, isEmpty
+ >PlaylistADT.java - ADT for playlist; contains signatures for size, name, delete, insert, lookup/get, sift, isEmpty
 
- SpotifySyncer.java - Uploads and gets playlists from Spotify
+ >SpotifySyncer.java - Uploads and gets playlists from Spotify
 
- DataGrapher.java - takes in playlists and graphs their feature value
+ >DataGrapher.java - takes in playlists and graphs their feature value
 
 ## Edit and Submit this file and any figures referenced by this document.
 
