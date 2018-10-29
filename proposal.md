@@ -1,5 +1,7 @@
 # X-Team Spotify Feature Identifier Project Proposal
 
+See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
+
 ## Goal
 
 Work as a team to create a project proposal for your X-team to complete together.
@@ -23,12 +25,12 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
  Caution: You are not being asked to implement this program, at least not yet. 
  We just want your group to make a proposal or pitch for your program.
  
- Tip: Your custom data structure can be composed of or extensions of data structures that you have learned and used in previous programming assignments.  We're looking for decisions about how to build a high-level data structure that will likely have lower-level components.
+ Tip: Your custom data structure can be composed of or extensions of data structures that you have learned and used in previous programming assignments.  We're looking for decisions about how to build a high-level data structure that will likely have lower-level components. 
 
 ## Problem Description
 We would like to figure out how the actions that a Spotify user takes affect the features of the songs that Spotify recommends to that user.
 
-Our program could take in a feature constraint (e.g. BPM less than 120) and a playlist size (e.g. 100). The feature contraints we could use would be based on song metadata available from Spotify's and Lyric Genius's API. Once the user input is given, we could have Spotify generate random playlist of the given size. We could then import this playlist and use Spotify's and Lyric Genius's API to associate the relevant feature value with each song and store this pair in our Playlist ADT. We could then filter the songs according to whether or not they fulfilled the given feature constraint. This filtered list would then serve as the seed of the next playlist that Spotify generates. We would repeat this process 100 times or until 95% of the songs fulfilled the feature constraint. If the latter condition was fulfilled then we could graph the feature profile over each generated playlist to the observe the rate at which Spotify adapted its generated playlist to the given constraint.
+Our program could take in a feature constraint (e.g. BPM less than 120) and a playlist size (e.g. 100). The feature contraints we could use would be based on song metadata available from Spotify's and Lyric Genius's API. Once the user input is given, we could have Spotify generate random playlist of the given size. We could then import this playlist and use Spotify's and Lyric Genius's API to associate the relevant feature value with each song and store this pair in our Playlist ADT. We could then filter the songs according to whether or not they fulfilled the given feature constraint. This filtered list would then serve as the seed of the next playlist that Spotify generates. We would repeat this process 100 times or until 95% of the songs fulfilled the feature constraint. If the latter condition was fulfilled then we could graph the feature profile over each generated playlist to the observe the rate at which Spotify adapted its generated playlist to the given constraint. In order to conduct comprehensive testing of the individual unit, we could create an artificial playlist that meets our future constraints in order to test the functionality of the code create that is complied with the use of Spotify API. 
 
 ## Questions to answer for Exercise #2
 
@@ -65,7 +67,5 @@ data files that contain this data.
  >SpotifySyncer.java - Uploads and gets playlists from Spotify
 
  >DataGrapher.java - takes in playlists and graphs their feature value
- 
- >Test.java - uses JUnit testing to test methods and functionality of classes
 
 
