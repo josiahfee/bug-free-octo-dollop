@@ -23,7 +23,7 @@ each member can imput their thoughts on a solution.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+We will have an internal due date 3 days before the actual due date. If a team member's assigned subsection is not complete by then, another team member will help complete the subsection. In return the team member that did not complete their assigned work on time will contribute more in the next part of the project cycle.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
