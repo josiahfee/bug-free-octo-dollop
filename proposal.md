@@ -68,5 +68,4 @@ data files that contain this data.
 
  >DataGrapher.java - takes in playlists and graphs their feature value
 
-## Edit and Submit this file and any figures referenced by this document.
 
