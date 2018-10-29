@@ -38,7 +38,6 @@ Our program could take in a feature constraint (e.g. BPM less than 120) and a pl
 //Give your project proposal a name (and edit the top line of this file)
 
 2. Output: List of features that Spotify uses in its recommendation selection algorithm, Graphing feature value over time.
-//Describe the output your program will produce.  Include and example format of the output produced.
 
 3. Input:
 Our input would be Spotify's generated playlist. We can get metadata from this playlist using Spotify's API and Lyric Genius's API. We would have the user enter a feature constraint and the size of the playlist it wants spotify to generate. For example, the user could input "songs less than 120 BPM" as a feature constraint, and 100 as the size of the playlist it wants Spotify to generate. 
