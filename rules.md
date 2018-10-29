@@ -17,7 +17,7 @@ Establish milestones or checkpoints that need to be completed in a solid timelin
 Breakdown project into smaller tasks and communicated and check he repository regularly to make sure work is getting done.
 
 
-## How will will communicate difficulties with a task assigned to us
+## How will we communicate difficulties with a task assigned to us
 
 
 
