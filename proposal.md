@@ -55,7 +55,7 @@ Main.java - The main program runs in this class.
 
 Playlist.java - A playlist that contains song name and feature value
 
-PlaylistADT.java - ADT for playlist
+PlaylistADT.java - ADT for playlist; contains signatures for size, name, delete, insert, lookup/get
 
 SpotifySyncer.java - Uploads and gets playlists from Spotify
 
