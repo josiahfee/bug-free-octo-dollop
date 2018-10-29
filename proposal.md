@@ -53,8 +53,9 @@ Describe at a high level a program that could solve that problem.
 4. User Interface: We will create this UI where the user will hit 'Start' and it will run in the background while
 the user uses Spotify. The program will run in the background and collecty datat from the music that the user listens
 to. It will collect information on whether a user likes, skips, searches, or adds a song to a playlist and
-create a record of this activty. It will look at Spotify's recommended playlist and identify the features Spotify used
-to create it based on the liked and disliked songs. We we will create data files that contain this data.
+create a record of this activty. Once finished, the user will hit 'Stop'. The program will look at Spotify's recommended 
+playlist and identify the features Spotify used to create it based on the liked and disliked songs. We we will create 
+data files that contain this data.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
