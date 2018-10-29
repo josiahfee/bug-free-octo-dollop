@@ -29,8 +29,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+We want to find out how user behavior such as song skipping and song search affect the features of the songs that Spotify recommends.
 
 ## Questions to answer for Exercise #2
 
