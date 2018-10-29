@@ -18,7 +18,8 @@ Breakdown project into smaller tasks and communicated and check he repository re
 
 
 ## How will we communicate difficulties with a task assigned to us
-
+We will use Slack to communicate and post any difficulties in the #general tab where
+each member can imput their thoughts on a solution.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
