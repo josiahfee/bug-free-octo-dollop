@@ -65,5 +65,7 @@ data files that contain this data.
  >SpotifySyncer.java - Uploads and gets playlists from Spotify
 
  >DataGrapher.java - takes in playlists and graphs their feature value
+ 
+ >Test.java - uses JUnit testing to test methods and functionality of classes
 
 
