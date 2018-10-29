@@ -34,11 +34,15 @@ Describe at a high level a program that could solve that problem.
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
+1. Name: Spotify Feature Identifier
+
+//Give your project proposal a name (and edit the top line of this file)
 
 
+2. Output: List of features that we would take into account with given song, Graphing feature value over time.
 
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+//Describe the output your program will produce.  Include and example format of the output produced.
+
 
 
 
