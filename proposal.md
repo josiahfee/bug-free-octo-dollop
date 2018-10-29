@@ -28,9 +28,9 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
  Tip: Your custom data structure can be composed of or extensions of data structures that you have learned and used in previous programming assignments.  We're looking for decisions about how to build a high-level data structure that will likely have lower-level components.
 
 ## Problem Description
+We would like to figure out how to actions that a spotify user takes affect the features of the songs that spotify recommends to that user.
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+Our program could take in a feature constraint (e.g. BPM less than 120) and a playlist size (e.g. 100). The feature contraints we could use would be based on song metadata available from Spotify's and Lyric Genius's API. Once the user input is given, we could have Spotify generate random playlist of the given size. We could then import this playlist and use Spotify's and Lyric Genius's API to associate the relevant feature value with each song and store this pair in our Playlist ADT. We could then filter the songs according to whether or not they fulfilled the given feature constraint. This filtered list would then serve as the seed of the next playlist that Spotify generates. We would repeat this process 100 times or until 95% of the songs fulfilled the feature constraint. If the latter condition was fulfilled then we could graph the feature profile over each generated playlist to the observe the rate at which Spotify adapted its generated playlist to the given constraint.
 
 ## Questions to answer for Exercise #2
 
@@ -40,11 +40,11 @@ Describe at a high level a program that could solve that problem.
 2. Output: List of features that Spotify uses in its recommendation selection algorithm, Graphing feature value over time.
 //Describe the output your program will produce.  Include and example format of the output produced.
 
-3. Input: nclude an example format of the input data.
+3. Input:
 Our input would be Spotify's generated playlist. We can get metadata from this playlist using Spotify's API and Lyric Genius's API. We would have the user enter a feature constraint and the size of the playlist it wants spotify to generate. For example, the user could input "songs less than 120 BPM" as a feature constraint, and 100 as the size of the playlist it wants Spotify to generate. 
 Example: User: "songs less than 120", 2.
-Spotify: "Hurt, Johnny Cash""Billy Jean, Michael Jackson" 
-(Spotify keeps returning playlists until generated playlist matches feature constraints."
+Spotify: "Hurt, Johnny Cash", "Billy Jean, Michael Jackson" 
+(Spotify keeps returning playlists until the generated playlist matches feature constraints.)
 
 4. User Interface: We will create this UI where the user will select a feature to look for, then hit 'Start' and it will run in the background while the user uses Spotify. The program will run in the background and collecty datat from the music that the user listens
 to. It will collect information on whether a user likes, skips, searches, or adds a song to a playlist and
