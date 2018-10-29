@@ -9,11 +9,11 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-
+Figure out the team member strength and preferences, then assign tasks accordingly. If workload turns to be unbalanced reassign tasks.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-AJDKJSDLAJL
+
 
 
 ## How will will communicate difficulties with a task assigned to us
