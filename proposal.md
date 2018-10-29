@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team Spotify Feature Identifier Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -34,21 +34,27 @@ Describe at a high level a program that could solve that problem.
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
+1. Name: Spotify Feature Identifier
+
+//Give your project proposal a name (and edit the top line of this file)
 
 
+2. Output: List of features that we would take into account with given song, Graphing feature value over time.
 
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+//Describe the output your program will produce.  Include and example format of the output produced.
+
 
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-We would need to have the songs file themselves as input, or metadata input. One type of input would be user based (skipping a song or searching a song and the other would be spotify's recommendation.
 
 
-4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
-
+4. User Interface: We will create this UI where the user will hit 'Start' and it will run in the background while
+the user uses Spotify. The program will run in the background and collecty datat from the music that the user listens
+to. It will collect information on whether a user likes, skips, searches, or adds a song to a playlist and
+create a record of this activty. It will look at Spotify's recommended playlist and identify the features Spotify used
+to create it based on the liked and disliked songs. We we will create data files that contain this data.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
