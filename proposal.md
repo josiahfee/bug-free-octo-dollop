@@ -49,12 +49,12 @@ create a record of this activty. Once finished, the user will hit 'Stop'. The pr
 playlist and identify the features Spotify used to create it based on the liked and disliked songs. We we will create 
 data files that contain this data.
 
-5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
-
-
-Name each interface or class and briefly describe its function or purpose.
-
+5. Types List: 
+Main.java - The main program runs in this class.
+[DataStructure].java - A playlist that contains song name and feature value
+[DataStructure]ADT.java - ADT for playlist
+SpotifySyncer.java - Uploads and gets playlists from Spotify
+DataGrapher.java - takes in playlists and graphs their feature value
 
 ## Edit and Submit this file and any figures referenced by this document.
 
