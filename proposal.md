@@ -50,10 +50,15 @@ playlist and identify the features Spotify used to create it based on the liked 
 data files that contain this data.
 
 5. Types List: 
+
 Main.java - The main program runs in this class.
+
 [DataStructure].java - A playlist that contains song name and feature value
+
 [DataStructure]ADT.java - ADT for playlist
+
 SpotifySyncer.java - Uploads and gets playlists from Spotify
+
 DataGrapher.java - takes in playlists and graphs their feature value
 
 ## Edit and Submit this file and any figures referenced by this document.
