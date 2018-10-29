@@ -53,9 +53,9 @@ data files that contain this data.
 
 Main.java - The main program runs in this class.
 
-[DataStructure].java - A playlist that contains song name and feature value
+Playlist.java - A playlist that contains song name and feature value
 
-[DataStructure]ADT.java - ADT for playlist
+PlaylistADT.java - ADT for playlist
 
 SpotifySyncer.java - Uploads and gets playlists from Spotify
 
