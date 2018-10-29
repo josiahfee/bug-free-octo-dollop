@@ -41,7 +41,7 @@ Describe at a high level a program that could solve that problem.
 //Describe the output your program will produce.  Include and example format of the output produced.
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-We would need to have the song metadata input. We can get this from Spotify's API and Lyric Genius's API. We would have the user enter a feature constraint and the size of the playlist it want spotify to generate. The other would be spotify's generated playlist.
+Our input would be Spotify's generated playlist. We can get this from Spotify's API and Lyric Genius's API. We would have the user enter a feature constraint and the size of the playlist it wants spotify to generate. For example, the user could input "songs less than 120 BPM" as a feature constraint, and 100 as the size of the playlist it wants spotify to generate.
 
 4. User Interface: We will create this UI where the user will select a feature to look for, then hit 'Start' and it will run in the background while the user uses Spotify. The program will run in the background and collecty datat from the music that the user listens
 to. It will collect information on whether a user likes, skips, searches, or adds a song to a playlist and
