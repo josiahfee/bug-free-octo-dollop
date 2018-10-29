@@ -47,6 +47,7 @@ Describe at a high level a program that could solve that problem.
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+We would need to have the songs file themselves as input, or metadata input. One type of input would be user based (skipping a song or searching a song and the other would be spotify's recommendation.
 
 
 
