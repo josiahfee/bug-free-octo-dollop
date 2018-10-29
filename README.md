@@ -6,7 +6,7 @@
        * GitHub username 2: josiahfee      name 2: Josiah Fee
        * GitHub username 3: cjwilson2020   name 3: Christopher Wilson
        * GitHub username 4: cchan01        name 4: Chloe Chan
-   * When did you complete this exercise? October 28th, 2018 
+   * When did you complete this exercise? October 28th, 2018 @ 8:45pm
    * How long did it take your team to complete this exercise? 
     approximately 3 hours
 
