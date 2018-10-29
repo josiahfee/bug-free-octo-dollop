@@ -29,26 +29,19 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-We want to find out how user behavior such as song skipping and song search affect the features of the songs that Spotify recommends.
+Briefly describe a problem that your team would like to solve.  
+Describe at a high level a program that could solve that problem.
 
 ## Questions to answer for Exercise #2
 
 1. Name: Spotify Feature Identifier
-
 //Give your project proposal a name (and edit the top line of this file)
 
-
-2. Output: List of features that we would take into account with given song, Graphing feature value over time.
-
+2. Output: List of features that Spotify uses in its recommendation selection algorithm, Graphing feature value over time.
 //Describe the output your program will produce.  Include and example format of the output produced.
-
-
-
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 We would need to have the songs file themselves as input, or metadata input. One type of input would be user based (skipping a song or searching a song and the other would be spotify's recommendation.
-
-
 
 4. User Interface: We will create this UI where the user will hit 'Start' and it will run in the background while
 the user uses Spotify. The program will run in the background and collecty datat from the music that the user listens
