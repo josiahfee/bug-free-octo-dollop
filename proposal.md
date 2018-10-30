@@ -23,7 +23,7 @@ Example:
  >Spotify: "Miracles, Insane Clown Posse", "Oh Comely, The Neutral Milk Hotel" 
 
 
-4. User Interface: We will create this UI where the user will select a feature to look for, then hit 'Start' and it will run in the background while the user uses Spotify. The program will run in the background and collecty datat from the music that the user listens
+4. User Interface: We will create this UI where the user will select a feature to look for, then hit 'Start' and it will run in the background while the user uses Spotify. The program will run in the background and collect data from the music that the user listens to.
 to. It will collect information on whether a user likes, skips, searches, or adds a song to a playlist and
 create a record of this activty. Once finished, the user will hit 'Stop'. The program will look at Spotify's recommended 
 playlist and identify the features Spotify used to create it based on the liked and disliked songs. We we will create 
