@@ -13,8 +13,8 @@ Figure out the team member strength and preferences, then assign tasks according
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-Establish milestones or checkpoints that need to be completed in a solid timeline.
-Breakdown project into smaller tasks and communicated and check the repository regularly to make sure work is getting done.
+Establish milestones or checkpoints that need to be completed in a solid timeline. Each person is responsible for creating sub tasks and individual action steps for their portion of the project. 
+We will check the repository regularly to make sure work is getting done.
 
 
 ## How will we communicate difficulties with a task assigned to us
